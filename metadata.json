@@ -1,0 +1,6 @@
+{
+  "name": "Microsoft Student Clubs - Innovation University Platform",
+  "description": "The official unified platform for Microsoft Student Clubs at Innovation University. Learning Hub, tasks & assignments, verified certificates, events with QR passes, XP gamification, and team workspaces in Arabic and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
